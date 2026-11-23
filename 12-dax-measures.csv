@@ -1,0 +1,59 @@
+TableName,Name,Expression
+Main,Main Spend,SUM('Main'[Amount spent (EGP)])
+Main,Main Impressions,SUM('Main'[Impressions])
+Main,Main Link Clicks,SUM('Main'[Link clicks])
+Main,Main Landing Page Views,SUM('Main'[Landing page views])
+Main,Main Reported Results,"IF(HASONEVALUE('Main'[Result indicator]), SUM('Main'[Results]), BLANK())"
+Main,Main CPM,"IF(ISBLANK([Main Spend]) || ISBLANK([Main Impressions]), BLANK(), DIVIDE([Main Spend] * 1000, [Main Impressions]))"
+Main,Main CTR,"IF(ISBLANK([Main Link Clicks]) || ISBLANK([Main Impressions]), BLANK(), DIVIDE([Main Link Clicks] * 1, [Main Impressions]))"
+Main,Main CPC,"IF(ISBLANK([Main Spend]) || ISBLANK([Main Link Clicks]), BLANK(), DIVIDE([Main Spend] * 1, [Main Link Clicks]))"
+Main,Main Landing Page View Rate,"DIVIDE([Main Landing Page Views] * 1, [Main Link Clicks])"
+Main,Main Spend Share %,"DIVIDE([Main Spend], CALCULATE([Main Spend], ALLSELECTED('Main'[Campaign name])))"
+Platform,Platform Spend,SUM('Platform'[Amount spent (EGP)])
+Platform,Platform Impressions,SUM('Platform'[Impressions])
+Platform,Platform Link Clicks,SUM('Platform'[Link clicks])
+Platform,Platform Landing Page Views,SUM('Platform'[Landing page views])
+Platform,Platform Revenue,SUM('Platform'[Website purchases conversion value])
+Platform,Platform Purchases,SUM('Platform'[Purchases])
+Platform,Platform Adds to Cart,SUM('Platform'[Adds to cart])
+Platform,Platform CPM,"DIVIDE([Platform Spend] * 1000, [Platform Impressions],0)"
+Platform,Platform CTR,"DIVIDE([Platform Link Clicks], [Platform Impressions],0)"
+Platform,Platform CPC,"IF(ISBLANK([Platform Spend]) || ISBLANK([Platform Link Clicks]), BLANK(), DIVIDE([Platform Spend] * 1, [Platform Link Clicks]))"
+Platform,Platform Landing Page View Rate,"DIVIDE([Platform Landing Page Views] , [Platform Link Clicks],0)"
+Platform,Platform CPA,"DIVIDE([Platform Spend] , [Platform Purchases],0)"
+Platform,Platform ROAS,"DIVIDE([Platform Revenue] , [Platform Spend],0)"
+Platform,Platform Purchase Rate,"DIVIDE([Platform Purchases] , [Platform Landing Page Views],0)"
+Platform,Platform AOV,"IF(ISBLANK([Platform Revenue]) || ISBLANK([Platform Purchases]), BLANK(), DIVIDE([Platform Revenue] * 1, [Platform Purchases]))"
+Platform,Platform Spend Share %,"DIVIDE([Platform Spend], CALCULATE([Platform Spend], ALLSELECTED('Platform'[Platform])))"
+Age,Age Spend,SUM('Age'[Amount spent (EGP)])
+Age,Age Impressions,SUM('Age'[Impressions])
+Age,Age Link Clicks,SUM('Age'[Link clicks])
+Age,Age Landing Page Views,SUM('Age'[Landing page views])
+Age,Age Revenue,SUM('Age'[Website purchases conversion value])
+Age,Age Purchases,SUM('Age'[Purchases])
+Age,Age Adds to Cart,SUM('Age'[Adds to cart])
+Age,Age CPM,"IF(ISBLANK([Age Spend]) || ISBLANK([Age Impressions]), BLANK(), DIVIDE([Age Spend] * 1000, [Age Impressions]))"
+Age,Age CTR,"IF(ISBLANK([Age Link Clicks]) || ISBLANK([Age Impressions]), BLANK(), DIVIDE([Age Link Clicks] * 1, [Age Impressions]))"
+Age,Age CPC,"IF(ISBLANK([Age Spend]) || ISBLANK([Age Link Clicks]), BLANK(), DIVIDE([Age Spend] * 1, [Age Link Clicks]))"
+Age,Age Landing Page View Rate,"IF(ISBLANK([Age Landing Page Views]) || ISBLANK([Age Link Clicks]), BLANK(), DIVIDE([Age Landing Page Views] * 1, [Age Link Clicks]))"
+Age,Age CPA,"IF(ISBLANK([Age Spend]) || ISBLANK([Age Purchases]), BLANK(), DIVIDE([Age Spend] * 1, [Age Purchases]))"
+Age,Age ROAS,"IF(ISBLANK([Age Revenue]) || ISBLANK([Age Spend]), BLANK(), DIVIDE([Age Revenue] * 1, [Age Spend]))"
+Age,Age Purchase Rate,"IF(ISBLANK([Age Purchases]) || ISBLANK([Age Landing Page Views]), BLANK(), DIVIDE([Age Purchases] * 1, [Age Landing Page Views]))"
+Age,Age AOV,"IF(ISBLANK([Age Revenue]) || ISBLANK([Age Purchases]), BLANK(), DIVIDE([Age Revenue] * 1, [Age Purchases]))"
+Age,Age Spend Share %,"DIVIDE([Age Spend], CALCULATE([Age Spend], ALLSELECTED('Age'[Age])))"
+Gender,Gender Spend,SUM('Gender'[Amount spent (EGP)])
+Gender,Gender Impressions,SUM('Gender'[Impressions])
+Gender,Gender Link Clicks,SUM('Gender'[Link clicks])
+Gender,Gender Landing Page Views,SUM('Gender'[Landing page views])
+Gender,Gender Revenue,SUM('Gender'[Website purchases conversion value])
+Gender,Gender Purchases,SUM('Gender'[Purchases])
+Gender,Gender Adds to Cart,SUM('Gender'[Adds to cart])
+Gender,Gender CPM,"IF(ISBLANK([Gender Spend]) || ISBLANK([Gender Impressions]), BLANK(), DIVIDE([Gender Spend] * 1000, [Gender Impressions]))"
+Gender,Gender CTR,"IF(ISBLANK([Gender Link Clicks]) || ISBLANK([Gender Impressions]), BLANK(), DIVIDE([Gender Link Clicks] * 1, [Gender Impressions]))"
+Gender,Gender CPC,"IF(ISBLANK([Gender Spend]) || ISBLANK([Gender Link Clicks]), BLANK(), DIVIDE([Gender Spend] * 1, [Gender Link Clicks]))"
+Gender,Gender Landing Page View Rate,"IF(ISBLANK([Gender Landing Page Views]) || ISBLANK([Gender Link Clicks]), BLANK(), DIVIDE([Gender Landing Page Views] * 1, [Gender Link Clicks]))"
+Gender,Gender CPA,"IF(ISBLANK([Gender Spend]) || ISBLANK([Gender Purchases]), BLANK(), DIVIDE([Gender Spend] * 1, [Gender Purchases]))"
+Gender,Gender ROAS,"IF(ISBLANK([Gender Revenue]) || ISBLANK([Gender Spend]), BLANK(), DIVIDE([Gender Revenue] * 1, [Gender Spend]))"
+Gender,Gender Purchase Rate,"IF(ISBLANK([Gender Purchases]) || ISBLANK([Gender Landing Page Views]), BLANK(), DIVIDE([Gender Purchases] * 1, [Gender Landing Page Views]))"
+Gender,Gender AOV,"IF(ISBLANK([Gender Revenue]) || ISBLANK([Gender Purchases]), BLANK(), DIVIDE([Gender Revenue] * 1, [Gender Purchases]))"
+Gender,Gender Spend Share %,"DIVIDE([Gender Spend], CALCULATE([Gender Spend], ALLSELECTED('Gender'[Gender])))"

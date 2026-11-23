@@ -1,0 +1,46 @@
+Campaign name,Gender,Attribution setting,Results,Result indicator,Reach,Frequency,Amount spent (EGP),Impressions,Link clicks,Clicks (all),Website purchases conversion value,3-second video plays,Adds to cart,Adds to cart conversion value,Content views,Content views conversion value,Landing page views,Cost per purchase (EGP),Purchases,Video plays,Campaign Family,Budget Numeric
+Sales | summer | CBO | 13-6,female,"7-day click, 1-day view, or 1-day engaged-view",11,actions:offsite_conversion.fb_pixel_purchase,16788,1.816595,4190.396189,30497,461,792,15617.0,4860,46,31706.0,238,159809.65,348,380.945108,11,23618,Sales,1000.0
+Conversion - prospecting - summer 25 - 23/7/2025 - videos,female,"7-day click, 1-day view, or 1-day engaged-view",4,actions:offsite_conversion.fb_pixel_purchase,8720,1.502982,2519.70418,13106,247,445,4264.0,3473,33,21467.0,165,111998.33,179,629.926045,4,11901,Conversion,500.0
+Easyorders - sales - 5/8/2025,female,Multiple attribution settings,1,actions:offsite_conversion.fb_pixel_purchase,6402,1.749766,1490.478984,11202,192,362,649.0,1535,,,54,36121.69,144,1490.478984,1,6279,Easyorders,0.0
+Conversion - product testing - summer 25 - 14/8/2025,female,"7-day click, 1-day view, or 1-day engaged-view",9,actions:offsite_conversion.fb_pixel_purchase,4939,3.143349,4180.030422,15525,374,532,22485.0,2469,49,36586.52,393,330204.83,293,464.447825,9,12469,Conversion,700.0
+Conversion - prospecting - summer 25 - 18/8/2025 - videos,female,"7-day click, 1-day view, or 1-day engaged-view",2,actions:offsite_conversion.fb_pixel_purchase,1927,3.300986,1637.657495,6361,146,203,2097.0,251,19,12378.0,130,98273.37,114,818.828748,2,867,Conversion,700.0
+Awarness - 22 AUG 25,female,7-day click or 1-day view,,,436,1.422018,37.863933,620,3,9,,491,,,,,1,,,591,Awareness,0.0
+Catalogue - prospecting- value - summer 25 - 24/8/2025,female,Incremental,,,294,1.091837,46.590092,321,1,2,,,,,,,,,,2,Catalogue,0.0
+Catalouge - sales -31-8-2025,female,"7-day click, 1-day view, or 1-day engaged-view",1,actions:purchase,16603,1.284467,416.635664,21326,104,148,2356.0,63,1,589.0,21,14534.22,18,416.635664,1,600,Catalogue,500.0
+OA | DABA | PROSPECTING,female,"7-day click, 1-day view, or 1-day engaged-view",3,actions:purchase,5287,1.820692,772.093702,9626,106,156,4631.8,,11,8049.0,87,69570.83,53,257.364567,3,,Other,636.0
+OA | RET,female,"7-day click, 1-day view, or 1-day engaged-view",,,277,1.559567,66.701508,432,10,13,,1,2,1478.0,17,14806.0,17,,,14,Other,200.0
+OA | ABO | CT,female,"7-day click, 1-day view, or 1-day engaged-view",8,actions:offsite_conversion.fb_pixel_purchase,2732,3.665813,2502.267455,10015,236,379,12316.7,2163,35,24367.0,139,98932.37,187,312.783432,8,8843,Other,0.0
+OA | ABO | CT | 2W,female,"7-day click, 1-day view, or 1-day engaged-view",31,actions:offsite_conversion.fb_pixel_purchase,14194,2.517049,6215.182746,35727,1004,1497,37564.92,6954,137,94861.0,567,431651.6,797,200.489766,31,32649,Other,0.0
+OA | DABA | CATS,female,"7-day click, 1-day view, or 1-day engaged-view",1,actions:purchase,4350,1.057931,310.27673,4602,39,56,939.0,5,2,2129.0,34,33789.59,24,310.27673,1,87,Other,0.0
+OA | RET | MOF,female,"7-day click, 1-day view, or 1-day engaged-view",,,120,1.45,70.97,174,4,4,,39,,,,,3,,,120,Other,0.0
+OA | Retargeting | MOF,female,"7-day click, 1-day view, or 1-day engaged-view",1,actions:offsite_conversion.fb_pixel_purchase,377,1.185676,120.134881,447,8,14,709.0,76,3,1947.0,5,3245.0,8,120.134881,1,415,Other,0.0
+Sales | summer | CBO | 13-6,male,"7-day click, 1-day view, or 1-day engaged-view",49,actions:offsite_conversion.fb_pixel_purchase,139026,2.312215,28507.794076,321458,3590,5924,68288.0,51619,305,190809.53,1898,1243904.0,3013,581.791716,49,245869,Sales,1000.0
+Conversion - prospecting - summer 25 - 23/7/2025 - videos,male,"7-day click, 1-day view, or 1-day engaged-view",45,actions:offsite_conversion.fb_pixel_purchase,96597,1.907761,21434.555561,184284,2817,4532,51441.0,51727,271,165362.0,1532,988770.57,2071,476.323457,45,170519,Conversion,500.0
+Easyorders - sales - 5/8/2025,male,Multiple attribution settings,109,actions:offsite_conversion.fb_pixel_purchase,161116,2.740063,30657.383784,441468,5196,9002,108017.0,31534,123,79227.0,2507,1552103.38,4284,281.260402,109,186925,Easyorders,0.0
+Conversion - product testing - summer 25 - 14/8/2025,male,"7-day click, 1-day view, or 1-day engaged-view",124,actions:offsite_conversion.fb_pixel_purchase,93008,3.781911,49155.512377,351748,5062,6987,221277.0,39544,553,459401.48,4806,4173591.96,4112,396.415422,124,290432,Conversion,700.0
+Conversion - prospecting - summer 25 - 18/8/2025 - videos,male,"7-day click, 1-day view, or 1-day engaged-view",95,actions:offsite_conversion.fb_pixel_purchase,55740,5.254288,36586.675418,292874,4309,6124,116428.5,8226,358,240757.0,3186,2269771.18,3412,385.122899,95,31894,Conversion,700.0
+Awarness - 22 AUG 25,male,7-day click or 1-day view,,,40245,1.770804,5146.606109,71266,1865,3333,,38620,2,1408.0,49,32679.5,154,,,57844,Awareness,0.0
+Catalogue - prospecting- value - summer 25 - 24/8/2025,male,Incremental,,,3319,1.318469,710.673795,4376,49,71,,2,1,584.29,46,34018.8,35,,,26,Catalogue,0.0
+Catalouge - sales -31-8-2025,male,"7-day click, 1-day view, or 1-day engaged-view",,,38378,1.334098,1490.857981,51200,256,343,,175,4,3526.0,107,73592.77,78,,,1318,Catalogue,500.0
+OA | DABA | PROSPECTING,male,"7-day click, 1-day view, or 1-day engaged-view",24,actions:purchase,44913,2.982967,11492.690186,133974,1675,2322,34039.25,,155,122086.0,1734,1411468.17,1314,478.862091,24,,Other,636.0
+OA | RET,male,"7-day click, 1-day view, or 1-day engaged-view",,,5706,1.517525,786.699841,8659,72,110,,6,2,1538.0,58,48923.0,50,,,80,Other,200.0
+OA | ABO | CT,male,"7-day click, 1-day view, or 1-day engaged-view",169,actions:offsite_conversion.fb_pixel_purchase,60082,5.147998,39581.50593,309302,6031,8796,249229.5,58959,802,543140.0,3565,2505131.38,4854,234.210094,169,270496,Other,0.0
+OA | ABO | CT | 2W,male,"7-day click, 1-day view, or 1-day engaged-view",526,actions:offsite_conversion.fb_pixel_purchase,227195,4.230309,80437.667715,961105,19367,27355,646763.28,151027,2492,1753301.61,10592,7717153.0,16299,152.056083,529,863987,Other,0.0
+OA | DABA | CATS,male,"7-day click, 1-day view, or 1-day engaged-view",2,actions:purchase,19337,1.294617,1981.300053,25034,260,324,1668.05,30,13,11058.0,221,188349.41,185,990.650027,2,375,Other,0.0
+OA | RET | MOF,male,"7-day click, 1-day view, or 1-day engaged-view",,,1211,1.30801,374.0,1584,28,32,,355,3,2127.0,7,4373.0,19,,,1251,Other,0.0
+OA | Retargeting | MOF,male,"7-day click, 1-day view, or 1-day engaged-view",4,actions:offsite_conversion.fb_pixel_purchase,9115,1.409325,1712.962188,12846,274,388,4096.65,1912,47,32124.0,131,92389.0,233,428.240547,4,11519,Other,0.0
+Sales | summer | CBO | 13-6,unknown,"7-day click, 1-day view, or 1-day engaged-view",,,1341,2.214765,291.509735,2970,35,60,,600,5,3285.0,12,8077.47,30,,,2438,Sales,1000.0
+Conversion - prospecting - summer 25 - 23/7/2025 - videos,unknown,"7-day click, 1-day view, or 1-day engaged-view",,,826,1.661017,156.180259,1372,25,41,,400,,,12,7758.0,25,,,1300,Conversion,500.0
+Easyorders - sales - 5/8/2025,unknown,Multiple attribution settings,,,1175,2.724255,224.717232,3201,34,66,,167,,,17,9776.48,47,,,940,Easyorders,0.0
+Conversion - product testing - summer 25 - 14/8/2025,unknown,"7-day click, 1-day view, or 1-day engaged-view",1,actions:offsite_conversion.fb_pixel_purchase,1372,3.623907,779.767202,4972,92,115,1238.0,603,10,8377.0,80,74652.86,80,779.767202,1,4266,Conversion,700.0
+Conversion - prospecting - summer 25 - 18/8/2025 - videos,unknown,"7-day click, 1-day view, or 1-day engaged-view",,,589,3.898132,267.717087,2296,32,44,,68,,,20,13375.62,23,,,242,Conversion,700.0
+Awarness - 22 AUG 25,unknown,7-day click or 1-day view,,,4,1.0,0.099958,4,,0,,1,,,,,,,,4,Awareness,0.0
+Catalogue - prospecting- value - summer 25 - 24/8/2025,unknown,Incremental,,,27,1.148148,6.056112,31,,0,,,,,,,,,,,Catalogue,0.0
+Catalouge - sales -31-8-2025,unknown,"7-day click, 1-day view, or 1-day engaged-view",,,259,1.281853,8.956356,332,,1,,,,,,,,,,11,Catalogue,500.0
+OA | DABA | PROSPECTING,unknown,"7-day click, 1-day view, or 1-day engaged-view",,,372,2.424731,77.996112,902,5,5,,,,,7,6105.5,6,,,,Other,636.0
+OA | RET,unknown,"7-day click, 1-day view, or 1-day engaged-view",,,46,1.521739,10.598651,70,,0,,,,,,,,,,,Other,200.0
+OA | ABO | CT,unknown,"7-day click, 1-day view, or 1-day engaged-view",4,actions:offsite_conversion.fb_pixel_purchase,700,3.891429,418.456615,2724,51,71,7818.65,569,15,9675.0,45,26891.62,57,104.614154,4,2472,Other,0.0
+OA | ABO | CT | 2W,unknown,"7-day click, 1-day view, or 1-day engaged-view",2,actions:offsite_conversion.fb_pixel_purchase,2125,3.350118,700.779539,7119,148,186,1353.1,1166,9,5841.0,92,64322.1,141,350.38977,2,6511,Other,0.0
+OA | DABA | CATS,unknown,"7-day click, 1-day view, or 1-day engaged-view",,,99,1.323232,13.333217,131,1,1,,1,,,,,,,,1,Other,0.0
+OA | RET | MOF,unknown,"7-day click, 1-day view, or 1-day engaged-view",,,11,1.090909,6.25,12,1,2,,6,,,,,1,,,9,Other,0.0
+OA | Retargeting | MOF,unknown,"7-day click, 1-day view, or 1-day engaged-view",,,101,1.386139,23.662931,140,2,3,,18,,,,,1,,,120,Other,0.0

@@ -1,0 +1,16 @@
+Campaign name,Attribution setting,Results,Result indicator,Reach,Frequency,Amount spent (EGP),Impressions,Link clicks,Clicks (all),Landing page views,Campaign Family,Budget Numeric
+Sales | summer | CBO | 13-6,"7-day click, 1-day view, or 1-day engaged-view",60.0,actions:offsite_conversion.fb_pixel_purchase,158155.0,2.244159,32989.7,354925.0,4086.0,6776.0,3391.0,Sales,1000.0
+Conversion - prospecting - summer 25 - 23/7/2025 - videos,"7-day click, 1-day view, or 1-day engaged-view",49.0,actions:offsite_conversion.fb_pixel_purchase,105495.0,1.884089,24110.44,198762.0,3089.0,5018.0,2275.0,Conversion,500.0
+Easyorders - sales - 5/8/2025,Multiple attribution settings,110.0,actions:offsite_conversion.fb_pixel_purchase,169321.0,2.692348,32372.58,455871.0,5422.0,9430.0,4475.0,Easyorders,0.0
+Conversion - product testing - summer 25 - 14/8/2025,"7-day click, 1-day view, or 1-day engaged-view",134.0,actions:offsite_conversion.fb_pixel_purchase,99440.0,3.743413,54115.31,372245.0,5528.0,7634.0,4485.0,Conversion,700.0
+Conversion - prospecting - summer 25 - 18/8/2025 - videos,"7-day click, 1-day view, or 1-day engaged-view",97.0,actions:offsite_conversion.fb_pixel_purchase,57400.0,5.253153,38492.05,301531.0,4487.0,6371.0,3549.0,Conversion,700.0
+Awarness - 22 AUG 25,7-day click or 1-day view,,,40704.0,1.766165,5184.57,71890.0,1868.0,3342.0,155.0,Awareness,0.0
+Catalogue - prospecting- value - summer 25 - 24/8/2025,Incremental,,,3659.0,1.292156,763.32,4728.0,50.0,73.0,35.0,Catalogue,0.0
+Catalouge - sales -31-8-2025,"7-day click, 1-day view, or 1-day engaged-view",1.0,actions:purchase,54940.0,1.326138,1916.45,72858.0,360.0,492.0,96.0,Catalogue,500.0
+OA | DABA | PROSPECTING,"7-day click, 1-day view, or 1-day engaged-view",27.0,actions:purchase,50192.0,2.878985,12342.78,144502.0,1786.0,2483.0,1373.0,Other,636.0
+OA | RET,"7-day click, 1-day view, or 1-day engaged-view",,,6058.0,1.512215,864.0,9161.0,82.0,123.0,67.0,Other,200.0
+OA | ABO | CT,"7-day click, 1-day view, or 1-day engaged-view",180.0,actions:offsite_conversion.fb_pixel_purchase,62106.0,5.148102,42193.16,319728.0,6267.0,9180.0,5062.0,Other,0.0
+OA | ABO | CT | 2W,"7-day click, 1-day view, or 1-day engaged-view",549.0,actions:offsite_conversion.fb_pixel_purchase,241223.0,4.100932,86232.38,989239.0,20236.0,28646.0,16994.0,Other,0.0
+OA | DABA | CATS,"7-day click, 1-day view, or 1-day engaged-view",3.0,actions:purchase,24071.0,1.236633,2304.91,29767.0,300.0,381.0,209.0,Other,0.0
+OA | RET | MOF,"7-day click, 1-day view, or 1-day engaged-view",,,1335.0,1.325843,451.22,1770.0,33.0,38.0,23.0,Other,0.0
+OA | Retargeting | MOF,"7-day click, 1-day view, or 1-day engaged-view",5.0,actions:offsite_conversion.fb_pixel_purchase,9307.0,1.410444,1817.87,13127.0,279.0,396.0,238.0,Other,0.0
