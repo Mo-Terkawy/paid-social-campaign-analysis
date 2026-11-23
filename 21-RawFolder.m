@@ -1,1 +1,0 @@
-"C:\ProjectData\" meta [IsParameterQuery = true, IsParameterQueryRequired = true, Type = type text]
